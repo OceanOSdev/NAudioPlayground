@@ -9,3 +9,6 @@ c:\users\thomas\documents\visual studio 2015\Projects\NAudioTestingApp\NAudioTes
 c:\users\thomas\documents\visual studio 2015\Projects\NAudioTestingApp\NAudioTestingApp\obj\Debug\NAudioTestingApp.exe
 c:\users\thomas\documents\visual studio 2015\Projects\NAudioTestingApp\NAudioTestingApp\obj\Debug\NAudioTestingApp.pdb
 c:\users\thomas\documents\visual studio 2015\Projects\NAudioTestingApp\NAudioTestingApp\obj\Debug\NAudioTestingApp.Form1.resources
+C:\Users\Thomas\Source\Repos\NAudioPlayground\NAudioTestingApp\NAudioTestingApp\bin\Debug\NAudioTestingApp.exe.config
+C:\Users\Thomas\Source\Repos\NAudioPlayground\NAudioTestingApp\NAudioTestingApp\obj\Debug\NAudioTestingApp.exe
+C:\Users\Thomas\Source\Repos\NAudioPlayground\NAudioTestingApp\NAudioTestingApp\obj\Debug\NAudioTestingApp.pdb
