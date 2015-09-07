@@ -1,0 +1,11 @@
+c:\users\thomas\documents\visual studio 2015\Projects\NAudioTestingApp\NAudioTestingApp\bin\Debug\NAudioTestingApp.exe.config
+c:\users\thomas\documents\visual studio 2015\Projects\NAudioTestingApp\NAudioTestingApp\bin\Debug\NAudioTestingApp.exe
+c:\users\thomas\documents\visual studio 2015\Projects\NAudioTestingApp\NAudioTestingApp\bin\Debug\NAudioTestingApp.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\NAudioTestingApp\NAudioTestingApp\bin\Debug\NAudio.dll
+c:\users\thomas\documents\visual studio 2015\Projects\NAudioTestingApp\NAudioTestingApp\bin\Debug\NAudio.xml
+c:\users\thomas\documents\visual studio 2015\Projects\NAudioTestingApp\NAudioTestingApp\obj\Debug\NAudioTestingApp.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2015\Projects\NAudioTestingApp\NAudioTestingApp\obj\Debug\NAudioTestingApp.Properties.Resources.resources
+c:\users\thomas\documents\visual studio 2015\Projects\NAudioTestingApp\NAudioTestingApp\obj\Debug\NAudioTestingApp.csproj.GenerateResource.Cache
+c:\users\thomas\documents\visual studio 2015\Projects\NAudioTestingApp\NAudioTestingApp\obj\Debug\NAudioTestingApp.exe
+c:\users\thomas\documents\visual studio 2015\Projects\NAudioTestingApp\NAudioTestingApp\obj\Debug\NAudioTestingApp.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\NAudioTestingApp\NAudioTestingApp\obj\Debug\NAudioTestingApp.Form1.resources
